@@ -1,0 +1,32 @@
+#container{
+    width: 98%;
+    height: 75px;
+    display: flex;
+    margin: auto;
+    background-color: #24252a;
+    color:white;
+}
+.navbar1{
+    width: 82%;
+    height: 75px;
+    display: flex;
+    margin-left: 180px;
+    margin-top: 6px;  
+}
+h2{
+    margin-left: 88px;
+}
+p{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+button{
+    width: 100px;
+    height: 50%;
+    background-color: #0389a4;
+    color: white;
+    margin-top: 13px;
+    border-radius: 20px;
+    margin-left: 370px;
+    border: 1px solid #0389a4;
+}
